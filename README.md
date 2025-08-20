@@ -36,6 +36,8 @@ ________________________________________
 •	⭐ All visuals include Spotlight enabled for emphasis
 
 
+<img width="1345" height="743" alt="Image" src="https://github.com/user-attachments/assets/ab700ebd-3992-4791-8d91-fc059ec9e2b7" />
+
 
 
 
